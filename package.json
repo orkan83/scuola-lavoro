@@ -1,0 +1,29 @@
+{
+  "name": "scuola-lavoro",
+  "version": "1.0.0",
+  "description": "proggetto di esempio per una semplice applicazione vocale ( node + express + voiceflow + heroku + gitHub ) ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orkan83/scuola-lavoro.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "heroku",
+    "voiceflow"
+  ],
+  "author": "Gaetano Olivares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orkan83/scuola-lavoro/issues"
+  },
+  "homepage": "https://github.com/orkan83/scuola-lavoro#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

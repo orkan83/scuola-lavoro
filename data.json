@@ -1,0 +1,23 @@
+{
+    "lunedi": [
+        "carta", "indifferenziara"
+    ],
+    "martedi": [
+        "vetro", "umido"
+    ],
+    "mercoledi": [
+        "plastica"
+    ],
+    "giovedi": [
+        "umido"
+    ], 
+    "venerdi": [
+        "carta", "indifferenziata"
+    ], 
+    "sabato": [
+        "niente"
+    ],
+    "domenica": [
+        "umido", "plastica"
+    ]
+}
